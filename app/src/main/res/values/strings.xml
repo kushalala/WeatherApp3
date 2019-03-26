@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="loading_test_app">Loading Test App</string>
+    <string name="city_list">City List</string>
+    <string name="no_cities_found">No Cities Found</string>
+    <string name="content_description">Content Description</string>
+    <string name="current_weather">Current Weather</string>
+</resources>
