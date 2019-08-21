@@ -10,7 +10,7 @@ import java.util.Date;
 
 public class Common {
 
-    public static String API_KEY = "ea798acf74e5e53dfd9d8b4170db3f50";
+    public static String API_KEY = "47cd62bb53f51be7a8a0b18bb9386043";
     public static final String API_LINK = "http://api.openweathermap.org/data/2.5/weather";
     public static final String CITY_STR = "cityStr";
     public static final String CITIES_LIST = "cities_list";
